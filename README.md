@@ -103,21 +103,35 @@ def counter_users(user_dict: dict) -> "Function":
 ### Test Cases:
 
 #### * 1a. test_doc_checker_scan():
+Checks for docstring>50 in scan function
 #### * 1b. test_doc_checker_fib():
+Checks for docstring>50 in fibonacci function
 #### * 1c. test_doc_checker_func():
+Checks for docstring>50 in counter function
 #### * 1d. test_doc_checker_parameter_type():
+Checks for proper type in doc function
 #### * 2a. test_fibonacci_boundary():
 #### * 2b. test_fibonacci_random():
 #### * 3a. test_func_add_count():
+test case for addition in counter function
 #### * 3b. test_func_mul_count():
+test case for multiplication in counter function
 #### * 3c. test_func_div_count():
-#### * 3d. test_func_print_count():
+test case for division in counter function
+#### * 3d. test_func_print_count()
+test case for print in counter function:
 #### * 3e. test_func_count_parameter_type():
+Checks for proper type in cuonter function
 #### * 4a. test_func_count_add_custom():
+test case for addition in custom counter function
 #### * 4b. test_func_count_mul_custom():
+test case for multiplication in custom counter function
 #### * 4c. test_func_count_div_custom():
+test case for division in custom counter function
 #### * 4d. test_func_count_print_custom():
+test case for print in custom counter function
 #### * 4e. test_func_count_custom_parameter_type():
+Checks for proper type in custom counter function
 
 
 ``` python
